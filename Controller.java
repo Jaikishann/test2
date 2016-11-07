@@ -8,6 +8,7 @@ Scanner scan = new Scanner(System.in);
 int ticketsRequired=0;
 long movieSerialNo=0;
 int h=5;
+int y=99;
 try{
 System.out.println("Enter the movie serialno you want to book");
 movieSerialNo = scan.nextInt();
